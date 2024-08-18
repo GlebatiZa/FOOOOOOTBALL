@@ -1,0 +1,42 @@
+header h1{
+    text-align: center;
+    background-color: aqua;
+}
+body{
+    background-color: blue;
+    color: white;
+    font-family: sans-serif;
+}
+header img{
+    width: 400px;
+    height: 200px;
+}
+main h1{
+    text-align: center;
+    background-color: brown;
+}
+main p{
+       background-color: red;
+       text-align: center;
+}
+Footer h1{
+    text-align: center;
+}
+footer a{
+    color:darkviolet;
+    font-size: 50px; 
+}
+footer img{
+    width: 100px;
+    height: 50px;
+}
+header a{
+    color: white;
+    border-radius: 10px;
+    background-color: red;
+    text-decoration: none;
+}
+a:hover {
+    background-color: yellow;
+    color: black;
+}
